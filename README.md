@@ -89,4 +89,4 @@ node --test tests/themes.test.cjs
 
 ## 许可证
 
-[MIT](./LICENSE)。由 [ITSGJY](https://github.com/ITSGJY) 维护。
+[MIT](./LICENSE)。
